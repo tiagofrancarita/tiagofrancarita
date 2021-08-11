@@ -1,9 +1,22 @@
-### Olá! Eu sou Tiago de França.
+<h1 align="center"> Tiago França 😉 </h1>
 
-- 🔭 Atualmente trabalho com teste de software e desenvolvimento em delphi 🤓💻.
-- 🌱 Estudando Springboot e Angular.
-- 📫 Contate-me no e-mail: tiagofranca.rita@gmail.com
-- 😄 Pronouns: ele/dele.
+<p align="center">
+  E aí amigo(a), como vai? Seja muito <b>bem vindo</b> ao meu Github!
+<p/>
+
+<p align="center">
+Me chamo Tiago, graduado em Análise e Desenvolvimento de sistemas e atuando como Analista de Qualidade I atualmente na @Totvs. 
+</p>
+
+<p align="center">
+Busco aprender e me desenvolver a cada dia e uso o meu Github não só como uma plataforma para armazenar e demonstrar meus códigos mas também como um ambiente pessoal de auto-incentivo onde eu possa sempre estar evoluindo, observando esta evolução e contribuindo com projetos open-source. A maioria dos meus repositorios ficam públicos.
+Eu adoro jogar video-game e descobrir novos hobbies. 
+<p/>
+
+<p align="center">
+Por aqui tenho conteúdo das principais tecnologias que uso como Angular,Springboot e Javascript.<br>
+Então sinta-se a vontade e dê uma explorada!
+<p/>
 
 <div>
   <a href="https://github.com/tiagofrancarita">
