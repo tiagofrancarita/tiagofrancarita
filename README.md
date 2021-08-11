@@ -1,30 +1,27 @@
-<h1 align="center"> Tiago França 😉 </h1>
+## Tiago França 😉
 
-<p align="center">
+ <div>
+  <a href="https://github.com/tiagofrancarita">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagofrancarita&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagofrancarita&layout=compact&langs_count=7&theme=nord"/>
+</div>
+  
+ <p align="center">
   E aí amigo(a), como vai? Seja muito <b>bem vindo</b> ao meu Github!
 <p/>
-
+ 
 <p align="center">
-Me chamo Tiago, graduado em Análise e Desenvolvimento de sistemas e atuando como Analista de Qualidade I atualmente na @Totvs. 
+  Me chamo Tiago, graduado em Análise e Desenvolvimento de sistemas e atuando como Analista de Qualidade I atualmente na @Totvs. 
 </p>
 
 <p align="center">
-Busco aprender e me desenvolver a cada dia e uso o meu Github não só como uma plataforma para armazenar e demonstrar meus códigos mas também como um ambiente pessoal de auto-incentivo onde eu possa sempre estar evoluindo, observando esta evolução e contribuindo com projetos open-source. A maioria dos meus repositorios ficam públicos.
-Eu adoro jogar video-game e descobrir novos hobbies. 
+  Busco aprender e me desenvolver a cada dia e uso o meu Github não só como uma plataforma para armazenar e demonstrar meus códigos mas também como um ambiente pessoal de auto-     incentivo onde eu possa sempre estar evoluindo, observando esta evolução e contribuindo com projetos open-source. A maioria dos meus repositorios ficam públicos.
+  Eu adoro jogar video-game e descobrir novos hobbies. 
 <p/>
-
 <p align="center">
-Por aqui tenho conteúdo das principais tecnologias que uso como Angular,Springboot e Javascript.<br>
-Então sinta-se a vontade e dê uma explorada!
+  Por aqui tenho conteúdo das principais tecnologias que uso como Angular,Springboot e Javascript.<br>
+  Então sinta-se a vontade e dê uma explorada!
 <p/>
-
-<div>
-  <a href="https://github.com/tiagofrancarita">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagofrancarita&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagofrancarita&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-
   
 ## Conjunto de habilidades 💪
 
@@ -80,18 +77,5 @@ Então sinta-se a vontade e dê uma explorada!
 </div>
 
   ![Snake animation](https://github.com/tiagofrancarita/tiagofrancarita/blob/output/github-contribution-grid-snake.svg)
-
-
-<!--
-**tiagofrancarita/tiagofrancarita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
 
