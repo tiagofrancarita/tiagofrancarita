@@ -18,11 +18,7 @@ Por aqui tenho conteúdo das principais tecnologias que uso como Angular,Springb
 Então sinta-se a vontade e dê uma explorada!
 <p/>
 
-<div>
-  <a href="https://github.com/tiagofrancarita">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagofrancarita&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagofrancarita&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
   
 ## Conjunto de habilidades 💪
 
