@@ -11,7 +11,7 @@
 <p/>
  
 <p align="center">
-  Me chamo Tiago, graduado em Análise e Desenvolvimento de sistemas e atuando como Analista de Qualidade I atualmente na @Totvs. 
+  Me chamo Tiago, graduado em Análise e Desenvolvimento de sistemas e atuando como engenheiro de software no @itau-unibanco
 </p>
 
 <p align="center">
