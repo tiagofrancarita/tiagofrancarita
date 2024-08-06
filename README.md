@@ -11,7 +11,7 @@
 <p/>
  
 <p align="center">
-  Me chamo Tiago, graduado em Análise e Desenvolvimento de sistemas e atuando como engenheiro de software no @itau-unibanco
+  Me chamo Tiago, graduado em Análise e Desenvolvimento de sistemas.
 </p>
 
 <p align="center">
